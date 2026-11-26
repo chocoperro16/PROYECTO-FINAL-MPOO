@@ -1,0 +1,14 @@
+{
+  "siguienteId": 2,
+  "usuarios": [
+    {
+      "id": 1,
+      "tipo": "UsuarioRegistrado",
+      "correo": "gaelvega2507@gmail.com",
+      "nombre": "Vega Diaz Carlos Gael",
+      "contrasenaHash": "$2a$12$d9CkvAReNFr5MEgMnNNKieKObSbjBU6/NeHzPtmIAXKL5jcsu61WO",
+      "saldoWallet": 20000.0,
+      "carrito": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pedidos": [
+    {
+      "id": 1,
+      "usuarioId": 1,
+      "correoUsuario": "gaelvega2507@gmail.com",
+      "fecha": "2026-11-26T13:50:24",
+      "total": 1160000.0,
+      "metodoPago": "Tarjeta DESCONOCIDA terminacion 8922",
+      "lineas": [
+        {
+          "nombre": "Iphon 24",
+          "precioUnitario": 1160000.0,
+          "cantidad": 1
+        }
+      ]
+    }
+  ]
+}

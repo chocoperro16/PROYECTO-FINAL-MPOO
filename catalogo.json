@@ -1,0 +1,17 @@
+{
+  "siguienteId": 2,
+  "articulos": [
+    {
+      "id": 1,
+      "tipo": "Celular",
+      "categoria": "Tecnologia",
+      "nombre": "Iphon 24",
+      "precio": 1000000.0,
+      "stock": 24,
+      "imagen": "imagenes/generica.png",
+      "garantiaMeses": 12,
+      "almacenamientoGb": 256,
+      "sistemaOperativo": "apple"
+    }
+  ]
+}
